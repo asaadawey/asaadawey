@@ -1,13 +1,84 @@
 <h1 align="center">Hi 👋, I'm Ahmed Saadawey</h1>
-<h3 align="center">A passionate Full stack Desktop & web developer . I also have some experience in mobile development</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asaadawey" alt="asaadawey" /> </p>
-
-- 💬 Ask me about **wpf,java,c#**
-
-- 📫 How to reach me **dondala42@hotmail.com**
-
-<p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=asaadawey&show_icons=true" alt="asaadawey" /> </p>
+<h3 align="center">Senior Full-Stack Developer | Desktop, Web & Mobile Applications</h3>
 
 <p align="center">
-<a href="https://instagram.com/a7mvd_sa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="a7mvd_sa" height="20" width="20" /></a>
+  <img src="https://komarev.com/ghpvc/?username=asaadawey&label=Profile%20views&color=0e75b6&style=flat" alt="asaadawey" />
 </p>
+
+---
+
+### 👨‍💻 About Me
+- 💼 **Senior Full-Stack Developer** with strong experience in **Desktop, Web, and Mobile Development**
+- 🧠 Strong background in **C#, .NET, Java, WPF**
+- 🌐 Experienced in **React, Node.js, and modern web technologies**
+- 📱 Built cross-platform apps using **Electron & Android**
+- 🚀 Passionate about **clean architecture, scalable systems, and software design**
+
+---
+
+### 💬 Ask Me About
+- **C# / .NET**
+- **Java**
+- **WPF**
+- **Full-Stack Architecture**
+- **Desktop & Web Applications**
+
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="35"/>
+</p>
+
+#### ⚙️ Backend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="35"/>
+</p>
+
+#### 🗄️ Databases
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="35"/>
+</p>
+
+#### 📱 Desktop & Mobile
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="35"/>
+</p>
+
+#### 🐧 Other
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asaadawey&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Contact Me
+- 📧 **Email:** dondala42@hotmail.com  
+- 💼 **LinkedIn:** [Ahmed Mahmoud](https://www.linkedin.com/in/ahmed-mahmoud-b652b5162/)
+
+---
+
+⭐️ *Feel free to explore my repositories and reach out for collaboration or opportunities.*
